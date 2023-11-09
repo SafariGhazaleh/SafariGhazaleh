@@ -1,5 +1,5 @@
 - 👋 I'm Ghazaleh Safari, a mathematician and junior data scientist. 
-- 🎓 MSc. Mathematics, Major: Data Science, Minor: Economics from Technische Universität Chemnitz, Germany
+- 🎓 MSc. Mathematics (Major: Data Science, Minor: Economics) from Technische Universität Chemnitz, Germany
 - 👀 Actively seeking a full-time position in data science and analytics.
 - 🔧 Familiar with Python, R, SPSS, Excel, LaTeX, and actively exploring modern machine learning approaches
 - 📚 Currently crafting my Master's thesis on "Variational Learning for Sparse Approximations in Gaussian Processes," contributing to the evolving landscape of machine learning.
